@@ -1,4 +1,4 @@
-感谢雪ノ下 雪乃 Yuk1n0提供，谢谢！
+*****thank 雪ノ下 雪乃 Yuk1n0   provided******
 
 # Auto Install Server Shell Script
 
