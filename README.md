@@ -8,6 +8,12 @@
 wget --no-check-certificate https://raw.githubusercontent.com/Yuk1n0/Shadowsocks-Install/master/shadowsocks.sh
 chmod +x shadowsocks.sh
 ./shadowsocks.sh 2>&1 | tee shadowsocks.log
+
+
+
+wget --no-check-certificate https://raw.githubusercontent.com/moongod8885/Shadowsocks-Install/master/shadowsocks.sh
+chmod +x shadowsocks.sh
+./shadowsocks.sh 2>&1 | tee shadowsocks.log
 ```
 **How to uninstall server**
 ``` bash
