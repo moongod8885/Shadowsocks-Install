@@ -1,3 +1,5 @@
+感谢雪ノ下 雪乃 Yuk1n0提供，谢谢！
+
 # Auto Install Server Shell Script
 
 - Intro: Auto Install Proxy Server
